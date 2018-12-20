@@ -4,4 +4,6 @@ yellow -> jump up
 violet -> bend down
 black -> caution 
 red ->stop
+Indigo -> Start again
+Blue -> rotate
 
