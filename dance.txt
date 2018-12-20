@@ -2,4 +2,6 @@ orange -> go to left
 green -> go to right
 yellow -> jump up
 violet -> bend down
+black -> caution 
+red ->stop
 
